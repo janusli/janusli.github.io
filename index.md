@@ -1,6 +1,6 @@
 # Janus Li
 
-I am a staff interpreter, translator and terminologist of an international NGO. I help people with intellectual curiosity to understand complex idea of Chinese intellectuality and how its relevant today through cross-cultural communication.
+I am a staff interpreter, translator and terminologist of an international NGO. .
 
 Contact me:
 
