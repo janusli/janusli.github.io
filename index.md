@@ -8,6 +8,6 @@ j dot li at europe dot ac dot nz
 
 ## Working Languages
 
-- AIIC A: Mandarin 國語, Cantonese 粵語, Hainanese 海南話
-- AIIC B: English, Hokkien </li>
+- AIIC A: Mandarin. Cantonese. Hainanese, English
+- AIIC B: Hokkien </li>
 - AIIC C: French, German, Italian, Japanese
